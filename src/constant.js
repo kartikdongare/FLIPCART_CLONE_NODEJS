@@ -1,0 +1,1 @@
+export const MONGODB_NAME="flipcard_clone_mern";
